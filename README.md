@@ -41,14 +41,12 @@ As expected, the percentage results for Thomas High have been fixed and are now 
 ---
 
 * Results by Grade
-<img src="https://github.com/sparrishmatt/School_District_Analysis/blob/main/Resources/mathbygrade.png" width="500">
-<img src="https://github.com/sparrishmatt/School_District_Analysis/blob/main/Resources/readingbygrade.png" width="500>
+
 
 It should be expected that for both math and reading percentages, Thomas High School is listed as NaN for their 9th graders. 
 
 * Scores by School Spending
 
-<img src="https://github.com/sparrishmatt/School_District_Analysis/blob/main/Resources/gradesbyspending.png" width="800">
 
 Since this output was created after the count of 9th grade Thomas High students was removed from the total students, we can't see how Thomas High School's budget bracket is affected by the change, but compared to the output before the 9th graders had their scores changed to NaN there is not a big enough difference to change the results due to rounding. 
 
